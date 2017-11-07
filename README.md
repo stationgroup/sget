@@ -1,0 +1,2 @@
+# sget
+wget + minisign authentication
