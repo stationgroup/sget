@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function getsecurefile() {
+function sget() {
 # cd to appropriate directory
 wget -q $1
 wget -q $2
