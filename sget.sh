@@ -15,4 +15,4 @@ mv $fname $fname.minisig /tmp
 return 1
 }
 
-getsecurefile $1 $2
+sget $1 $2
