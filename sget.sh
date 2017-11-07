@@ -16,4 +16,3 @@ return 1
 }
 
 getsecurefile $1 $2
-#http://mutualparity.s3.amazonaws.com/test/fail.min.js http://mutualparity.s3.amazonaws.com/test/fail.min.js.minisig
