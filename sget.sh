@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function getsecurefile() {
+function sget() {
 # cd to appropriate directory
 wget -q $1
 wget -q $2
@@ -15,4 +15,4 @@ mv $fname $fname.minisig /tmp
 return 1
 }
 
-getsecurefile $1 $2
+sget $1 $2
